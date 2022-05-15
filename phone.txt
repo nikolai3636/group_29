@@ -1,3 +1,4 @@
 1) huawei
 2) honor
-3)xiaomi
+3) xiaomi
+4) samsung
