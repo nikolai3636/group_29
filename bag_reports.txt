@@ -1,17 +1,6 @@
-баг-репорты						
-variant A						
-	Id	A1				
-	Name	FF53 - User can enter alphabetical and special symbols to DOB fie				
-	Steps	1. Log in to MiAgent portal 				
-		2. Search for a customer				
-		3. Click on Edit icon near Income/Last Changed				
-		4. Click on Occupant				
-		5. Enter alphabetical and special symbols to DOB field				
-	Actual result	User can enter alphabetical and special symbols to DOB field				
-	Expected result	User can't enter alphabetical and special symbols to DOB field				
-	Attachments	http://prntscr.com/jas795				
-						
-variant B						
- Id	Summary	Preconditions	Steps to reproduce	Actual Result	Expected Result	Attachments
-B1	404 error is displayed		1. Go to http://www.example.com	404 error is displayed	Authorization page is opened	http://prntscr.com/ic93kw
-			2. Click on "Login" button			
+1. Заголовок
+2. Шаги воспроизведения
+3. Ожидаемый результат
+4. Акктуальный результат
+5. Приоритет
+6. Серьёзность	
